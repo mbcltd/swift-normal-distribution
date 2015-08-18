@@ -14,7 +14,7 @@ func ø(x:Double) -> Double {
     return standardNormalDistribution(x)
 }
 
-func normalDistribution(μ:Double, σ:Double)(x:Double) -> Double {
+func normalDistribution(μ:Double, σ:Double)(_ x:Double) -> Double {
     let a = exp( -1 * pow(x-μ, 2) / ( 2 * pow(σ,2) ) )
     let b = σ * sqrt( 2 * M_PI )
     return a / b
