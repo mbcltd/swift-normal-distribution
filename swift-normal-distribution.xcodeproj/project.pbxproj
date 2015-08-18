@@ -16,6 +16,7 @@
 		8641A4B31B83B31900F43C58 /* swift_normal_distributionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8641A4B21B83B31900F43C58 /* swift_normal_distributionTests.swift */; };
 		8641A4BF1B83B40D00F43C58 /* NormalDistribution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8641A4BE1B83B40D00F43C58 /* NormalDistribution.swift */; };
 		8641A4C01B83B72900F43C58 /* NormalDistribution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8641A4BE1B83B40D00F43C58 /* NormalDistribution.swift */; };
+		8641A4C21B83BBBF00F43C58 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 8641A4C11B83BBBF00F43C58 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		8641A4B21B83B31900F43C58 /* swift_normal_distributionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_normal_distributionTests.swift; sourceTree = "<group>"; };
 		8641A4BC1B83B38400F43C58 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8641A4BE1B83B40D00F43C58 /* NormalDistribution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NormalDistribution.swift; sourceTree = "<group>"; };
+		8641A4C11B83BBBF00F43C58 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 		8641A48B1B83B31900F43C58 = {
 			isa = PBXGroup;
 			children = (
+				8641A4C11B83BBBF00F43C58 /* LICENSE */,
 				8641A4BC1B83B38400F43C58 /* README.md */,
 				8641A4961B83B31900F43C58 /* swift-normal-distribution */,
 				8641A4AF1B83B31900F43C58 /* swift-normal-distributionTests */,
@@ -203,6 +206,7 @@
 			files = (
 				8641A4A21B83B31900F43C58 /* Main.storyboard in Resources */,
 				8641A4A71B83B31900F43C58 /* LaunchScreen.xib in Resources */,
+				8641A4C21B83BBBF00F43C58 /* LICENSE in Resources */,
 				8641A4A41B83B31900F43C58 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
