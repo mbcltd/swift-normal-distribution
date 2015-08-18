@@ -14,6 +14,7 @@
 		8641A4A41B83B31900F43C58 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8641A4A31B83B31900F43C58 /* Images.xcassets */; };
 		8641A4A71B83B31900F43C58 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8641A4A51B83B31900F43C58 /* LaunchScreen.xib */; };
 		8641A4B31B83B31900F43C58 /* swift_normal_distributionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8641A4B21B83B31900F43C58 /* swift_normal_distributionTests.swift */; };
+		8641A4BD1B83B38400F43C58 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8641A4BC1B83B38400F43C58 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		8641A4AC1B83B31900F43C58 /* swift-normal-distributionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift-normal-distributionTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8641A4B11B83B31900F43C58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8641A4B21B83B31900F43C58 /* swift_normal_distributionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_normal_distributionTests.swift; sourceTree = "<group>"; };
+		8641A4BC1B83B38400F43C58 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		8641A48B1B83B31900F43C58 = {
 			isa = PBXGroup;
 			children = (
+				8641A4BC1B83B38400F43C58 /* README.md */,
 				8641A4961B83B31900F43C58 /* swift-normal-distribution */,
 				8641A4AF1B83B31900F43C58 /* swift-normal-distributionTests */,
 				8641A4951B83B31900F43C58 /* Products */,
@@ -217,6 +220,7 @@
 			files = (
 				8641A49F1B83B31900F43C58 /* ViewController.swift in Sources */,
 				8641A49D1B83B31900F43C58 /* swift_normal_distribution.xcdatamodeld in Sources */,
+				8641A4BD1B83B38400F43C58 /* README.md in Sources */,
 				8641A49A1B83B31900F43C58 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C6BA0533-436F-439E-B6D3-24A21CF38F33</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CB3E767122C7AF87DD357263DF2680479BE46B37</key>
+		<string>https://github.com/mbcltd/swift-normal-distribution.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>swift-normal-distribution.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CB3E767122C7AF87DD357263DF2680479BE46B37</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mbcltd/swift-normal-distribution.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CB3E767122C7AF87DD357263DF2680479BE46B37</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB3E767122C7AF87DD357263DF2680479BE46B37</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift-normal-distribution</string>
+		</dict>
+	</array>
+</dict>
+</plist>
