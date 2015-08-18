@@ -14,7 +14,8 @@
 		8641A4A41B83B31900F43C58 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8641A4A31B83B31900F43C58 /* Images.xcassets */; };
 		8641A4A71B83B31900F43C58 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8641A4A51B83B31900F43C58 /* LaunchScreen.xib */; };
 		8641A4B31B83B31900F43C58 /* swift_normal_distributionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8641A4B21B83B31900F43C58 /* swift_normal_distributionTests.swift */; };
-		8641A4BD1B83B38400F43C58 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8641A4BC1B83B38400F43C58 /* README.md */; };
+		8641A4BF1B83B40D00F43C58 /* NormalDistribution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8641A4BE1B83B40D00F43C58 /* NormalDistribution.swift */; };
+		8641A4C01B83B72900F43C58 /* NormalDistribution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8641A4BE1B83B40D00F43C58 /* NormalDistribution.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		8641A4B11B83B31900F43C58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8641A4B21B83B31900F43C58 /* swift_normal_distributionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_normal_distributionTests.swift; sourceTree = "<group>"; };
 		8641A4BC1B83B38400F43C58 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8641A4BE1B83B40D00F43C58 /* NormalDistribution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NormalDistribution.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				8641A4A51B83B31900F43C58 /* LaunchScreen.xib */,
 				8641A49B1B83B31900F43C58 /* swift_normal_distribution.xcdatamodeld */,
 				8641A4971B83B31900F43C58 /* Supporting Files */,
+				8641A4BE1B83B40D00F43C58 /* NormalDistribution.swift */,
 			);
 			path = "swift-normal-distribution";
 			sourceTree = "<group>";
@@ -220,8 +223,8 @@
 			files = (
 				8641A49F1B83B31900F43C58 /* ViewController.swift in Sources */,
 				8641A49D1B83B31900F43C58 /* swift_normal_distribution.xcdatamodeld in Sources */,
-				8641A4BD1B83B38400F43C58 /* README.md in Sources */,
 				8641A49A1B83B31900F43C58 /* AppDelegate.swift in Sources */,
+				8641A4BF1B83B40D00F43C58 /* NormalDistribution.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,6 +232,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8641A4C01B83B72900F43C58 /* NormalDistribution.swift in Sources */,
 				8641A4B31B83B31900F43C58 /* swift_normal_distributionTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
