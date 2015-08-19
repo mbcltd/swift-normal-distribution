@@ -25,7 +25,7 @@
 
 import Foundation
 
-let standardNormalDistribution:(Double)->Double = normalDistribution(0.0, 1.0)
+let standardNormalDistribution:(Double) -> Double = normalDistribution(0.0, 1.0)
 
 func ø(x:Double) -> Double {
     return standardNormalDistribution(x)
